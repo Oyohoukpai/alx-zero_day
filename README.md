@@ -1,1 +1,2 @@
-my first readme
+I'm in love coding
+So much
